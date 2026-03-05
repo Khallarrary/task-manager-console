@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "task-manager-console/1.0.0": {
+        "runtime": {
+          "task-manager-console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task-manager-console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
